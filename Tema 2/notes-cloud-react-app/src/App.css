@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  line-break: anywhere;
+}
+html{
+  background-image: url('mesh-gradient.png');
+  color: #373b64;
+}
